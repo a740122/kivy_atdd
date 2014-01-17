@@ -1,3 +1,5 @@
 hg+http://bitbucket.org/pygame/pygame
 kivy
 bottle
+lettuce
+requests
